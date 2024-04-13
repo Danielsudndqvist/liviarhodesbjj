@@ -1,3 +1,45 @@
+body {
+    margin: 0;
+    font-size: 1.75rem;
+    background: #fafafa;
+    padding-inline-start: 20rem;
+    color: white;
+  }
+  nav {
+    background: gray;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    padding-block:2rem ;
+    font-size: 1.75rem;
+  }
+  
+  .nav-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: grid;
+    gap: 3rem;
+    
+  }
+  
+  .nav-list a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  .nav-list li {
+    padding-block: 1rem;
+    padding-inline: 2rem;
+  }
+  
+  .nav-list li .active {
+    display: block;
+    background: white;
+    border-radius: 100vw;
+
+  }
 
 #introduction {
     height: 707px;
