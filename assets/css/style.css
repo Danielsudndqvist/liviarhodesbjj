@@ -25,7 +25,7 @@ nav {
 
 .nav-list {
     margin: 0;
-    padding-left: 35%;
+    padding-left: 30%;
     list-style: none;
     display: flexbox;
     gap: 3rem;
@@ -42,19 +42,21 @@ nav {
     padding-block: 1rem;
     padding-inline: 1rem;
 }
+.nav-list li:hover {
+    text-decoration: underline black;
+
+}
 
 .nav-list li .active {
     display:grid;
     background: white;
     border-radius: 5vw;
-
 }
 
 #introduction {
     height: 707px;
     width: 757px;
     background: url("../images/ryggstark.png") no-repeat center center/cover;
-    position: relative;
 }
 
 #brazil {
