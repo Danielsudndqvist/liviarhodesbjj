@@ -1,45 +1,56 @@
+h1 , h2 {
+    text-align: center;
+    text-decoration: none;
+    position:static;
+    z-index: 1;
+}
+
 body {
     margin: 0;
-    font-size: 1.75rem;
     background: #fafafa;
-    padding-inline-start: 20rem;
+    padding-inline-start: 0rem;
     color: white;
-  }
-  nav {
+
+}
+
+nav {
     background: gray;
-    position: fixed;
+    position: sticky;
     top: 0;
     bottom: 0;
     left: 0;
-    padding-block:2rem ;
-    font-size: 1.75rem;
-  }
-  
-  .nav-list {
+    padding-block: 2rem;
+    font-family: "PT Serif", serif;
+    font-size: 1.5rem;
+}
+
+.nav-list {
     margin: 0;
     padding: 0;
     list-style: none;
-    display: grid;
+    display: flexbox;
     gap: 3rem;
-    
-  }
-  
-  .nav-list a {
+    display: flex;
+    align-items: center;
+
+}
+
+.nav-list a {
     color: black;
     text-decoration: none;
-  }
-  
-  .nav-list li {
-    padding-block: 1rem;
-    padding-inline: 2rem;
-  }
-  
-  .nav-list li .active {
-    display: block;
-    background: white;
-    border-radius: 100vw;
+}
 
-  }
+.nav-list li {
+    padding-block: 1rem;
+    padding-inline: 1rem;
+}
+
+.nav-list li .active {
+    display: grid;
+    background: white;
+    border-radius: 50vw;
+
+}
 
 #introduction {
     height: 707px;
