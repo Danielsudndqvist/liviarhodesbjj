@@ -1,21 +1,30 @@
 
-#about-livia {
-    height: 100px;
-    width: 50%;
+#introduction {
+    height: 707px;
+    width: 757px;
     background: url("../images/ryggstark.png") no-repeat center center/cover;
     position: relative;
 }
 
 #brazil {
-    height: 100px;
-    width: 50%;
-    background: url(../images/brazil-flag.jpg) no-repeat center center/cover;
-    position: relative;
+    background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border-color: #f000000;
+    max-width: 300px;
+    max-height: 300px;
 }
 
 #sweden {
-    height: 100px;
-    width: 50%;
-    background: url("../images/Flag_of_Sweden.svg.png no-repeat center center/cover;
-    position: relative;
+    background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    border-color: #f000000;
+    border: 10px;
+    max-width: 300px;
+    max-height: 300px;
 }
