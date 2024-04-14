@@ -1,14 +1,12 @@
 h1 , h2 {
     text-align: center;
     text-decoration: none;
-    z-index: 1;
     color: black;
 }
 
 body {
     margin: 0;
     background: #fafafa;
-    padding-inline-start: 0rem;
     color: white;
 
 }
@@ -16,9 +14,7 @@ body {
 nav {
     background: gray;
     top: 0;
-    bottom: 0;
     left: 0;
-    padding-block: 0.1rem;
     font-family: "PT Serif", serif;
     font-size: 1.5rem;
 }
@@ -26,9 +22,9 @@ nav {
 .nav-list {
     margin: 0;
     padding-left: 30%;
+    padding-top: 1rem;
     list-style: none;
-    display: flexbox;
-    gap: 3rem;
+    gap: 5rem;
     display: flex;
 
 }
@@ -38,10 +34,11 @@ nav {
     text-decoration: none;
 }
 
-.nav-list li {
+/*.nav-list li {
     padding-block: 1rem;
     padding-inline: 1rem;
-}
+}*/
+
 .nav-list li:hover {
     text-decoration: underline black;
 
@@ -50,7 +47,8 @@ nav {
 .nav-list li .active {
     display:grid;
     background: white;
-    border-radius: 5vw;
+    border-radius: 2vw 2vw 0vw 0vw;
+    padding: 1rem;
 }
 
 #introduction {
