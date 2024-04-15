@@ -1,6 +1,5 @@
 h1 {
     text-align: left;
-    text-decoration: none;
     color: black;
     z-index: 10;
     position: auto;
@@ -9,13 +8,15 @@ h1 {
 body {
     margin: 0;
     font-family: "PT Serif", serif;
-
+}
+a { 
+    text-decoration: none; 
+    color: black;
 }
 
 /* Header */
 header {
     background-color: gray;
-    padding: 0 1rem;
     position: sticky;
     z-index: 10;
     width: 100%;
@@ -24,6 +25,7 @@ header {
     align-items: baseline;
     display: flex;
 }
+
 
 /* small devices (divices up to 992px ) */
 @media screen and (max-width: 992px) {
@@ -42,12 +44,6 @@ header {
         padding-left: 1rem;
     }
 
-    .active {
-        display: grid;
-        background: white;
-        border-radius: 2vw;
-    }
-
     #menu>li {
         margin-bottom: 1em;
     }
@@ -63,10 +59,7 @@ header {
 
     }
 
-    /* Nav toggle */
-    #nav-toggle {
-        display: none;
-    }
+
 
     .nav-toggle-label {
         font-size: 2rem;
@@ -76,8 +69,11 @@ header {
         padding-right: 2rem;
     }
 
-    #nav-toggle:checked~nav {
-        display: block;
+    .active {
+        display: grid;
+        background: white;
+        border-radius: 2vw;
+        padding: 0.1rem;
     }
 
 
@@ -89,71 +85,61 @@ header {
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
 
-    .logo {
-        text-decoration: none;
-    }
-
-    header {
-        background: gray;
-        top: 0;
-        left: 0;
-        font-size: 1.5rem;
-    }
-
-    /* Nav toggle */
-    #nav-toggle:checked~.menu {
-        display: grid;
-    }
-
-    #nav-toggle {
-        display: none;
-    }
-
-    .nav-toggle-label {
-        font-size: 2rem;
-    }
-
-    .menu {
-        display: flex;
-        padding-left: 1rem;
-        list-style: none;
-    }
-
-    .nav-toggle-label {
-        display: none;
-    }
 
 
-    .menu {
-        margin: 0;
-        padding-left: 30%;
-        list-style: none;
-        gap: 5rem;
-        display: flex;
 
-    }
 
-    header a {
-        color: black;
-        text-decoration: none;
-    }
+#menu {
+    position: relative;
+    margin: 0;
+    padding-right: 50px;
+    list-style: none;
+    display: flex;
+    gap: 7rem;
+    font-size: 130%;
+    align-items: baseline;,
+}
 
-    .menu:hover {
-        text-decoration: underline black;
+.menu a {
+    text-decoration: none;
+}
 
-    }
+.active {
+    display: grid;
+    background: white;
+    border-radius: 2vw;
+    padding: 1rem;
+}
 
-    .active {
-        display: grid;
-        background: white;
-        border-radius: 2vw;
-    }
+.menu li {
+    padding-top: 2rem;
+    padding-block: 1rem;
+    padding-inline: 1rem;
+    color: black;
+    align-items: baseline;
+}
+.nav-toggle-label {
+    display: none;
+}
+
 }
 
 
+/* Nav toggle */
+#nav-toggle {
+        display: none;
+    }
+    
+    #nav-toggle:checked~nav {
+        display: block;
+    }
 
-
-
+.active {
+    display: grid;
+    background: white;
+    border-radius: 2vw;
+    padding: 1rem;
+}
 
 #introduction {
     padding-top: 60%;
