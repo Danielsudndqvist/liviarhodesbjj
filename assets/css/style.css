@@ -103,7 +103,7 @@ header {
 .menu a {
     text-decoration: none;
 }
-
+    
 .active {
     display: grid;
     background: white;
@@ -141,23 +141,29 @@ header {
     padding: 1rem;
 }
 
+#about-livia {
+
+
+}
+
 #introduction {
     padding-top: 60%;
     background: url("../images/ryggstark.png") no-repeat center center/cover;
 }
 
-#brazil {
+#brazil-flag {
     background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
     border-radius: 50%;
     border-color: #f000000;
+    border: 10px;
     max-width: 300px;
     max-height: 300px;
 }
 
-#sweden {
+#sweden-flag {
     background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
@@ -167,4 +173,13 @@ header {
     border: 10px;
     max-width: 300px;
     max-height: 300px;
+}
+
+/* Footer */
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
 }
