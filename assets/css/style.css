@@ -175,6 +175,22 @@ header {
     max-height: 300px;
 }
 
+#contact-div {
+    background: url(../images/rygg-kort.jpg) no-repeat top center / cover;
+    height: 100vw;
+    width: 100vw;
+    padding: center;
+    max-width: 1440px;
+    max-height: 703px ;
+    align-items: center;
+}
+
+#contact-form {
+    
+    padding-left: 70%;
+    padding-top: 5%;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -183,3 +199,4 @@ header {
     justify-content: space-evenly;
     list-style-type: none;
 }
+
