@@ -147,8 +147,13 @@ header {
 }
 
 #introduction {
-    padding-top: 60%;
-    background: url("../images/ryggstark.png") no-repeat center center/cover;
+    background: url(../images/glad1.png) no-repeat center center/cover;    
+    height: 90vw;
+    width: 90vw;
+    border: 10px;
+    max-width: 680px;
+    max-height: 489px;
+    margin: auto;
 }
 
 #brazil-flag {
@@ -161,12 +166,14 @@ header {
     border: 10px;
     max-width: 300px;
     max-height: 300px;
+    margin: auto;
 }
 
 #sweden-flag {
     background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
+    margin: auto;
     margin-bottom: 20px;
     border-radius: 50%;
     border-color: #f000000;
@@ -182,7 +189,7 @@ header {
     padding: center;
     max-width: 1440px;
     max-height: 703px ;
-    align-items: center;
+    margin:auto;
 }
 
 #contact-form {
