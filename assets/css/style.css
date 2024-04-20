@@ -69,25 +69,27 @@ margin: auto;
 
 #brazil-flag {
 background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
-height: 60vw;
-width: 60vw;
+height: 30vw;
+width: 30vw;
 margin: auto;
 border-radius: 50%;
-border: 10px;
+border: 1px;
 max-width: 300px;
 max-height: 300px;
+padding: 2rem;
 
 }
 
 #sweden-flag {
 background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
-height: 60vw;
-width: 60vw;
+height: 30vw;
+width: 30vw;
 margin: auto;
 border-radius: 50%;
-border: 10px;
+border: 1px;
 max-width: 300px;
 max-height: 300px;
+padding: 2rem;
 }
 
 #contact-div {
@@ -113,6 +115,7 @@ padding: 20px 0;
 display: flex;
 justify-content: space-evenly;
 list-style-type: none;
+font-size: 160%;
 }
 
 
@@ -213,7 +216,9 @@ list-style-type: none;
     display: none;
 }
 
-about-livia 
-
+#brazil-sweden {
+    display: flex;
+    align-items: baseline;
+}
 }
 
