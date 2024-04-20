@@ -27,6 +27,97 @@ header {
 }
 
 
+/* Nav toggle */
+#nav-toggle {
+    display: none;
+}
+
+#nav-toggle:checked~nav {
+    display: block;
+}
+
+.active {
+display: grid;
+background: white;
+border-radius: 2vw;
+padding: 1rem;
+}
+
+#about-livia div{
+padding-bottom: 1rem;
+
+
+}
+
+#about-livia h2, p {
+color: black;
+background-color: gray;
+width: 70%;
+margin: auto;
+}
+
+
+#intro-picture {
+background: url(../images/glad1.png) no-repeat center center/cover;    
+height: 90vw;
+width: 90vw;
+border: 10px;
+max-width: 680px;
+max-height: 489px;
+margin: auto;
+}
+
+#brazil-flag {
+background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
+height: 60vw;
+width: 60vw;
+margin: auto;
+border-radius: 50%;
+border: 10px;
+max-width: 300px;
+max-height: 300px;
+
+}
+
+#sweden-flag {
+background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
+height: 60vw;
+width: 60vw;
+margin: auto;
+border-radius: 50%;
+border: 10px;
+max-width: 300px;
+max-height: 300px;
+}
+
+#contact-div {
+background: url(../images/rygg-kort.jpg) no-repeat top center / cover;
+height: 100vw;
+width: 100vw;
+padding: center;
+max-width: 1440px;
+max-height: 703px ;
+margin:auto;
+}
+
+#contact-form {
+
+padding-left: 5%;
+padding-top: 5%;
+}
+
+/* Footer */
+#social-networks {
+text-align: center;
+padding: 20px 0;
+display: flex;
+justify-content: space-evenly;
+list-style-type: none;
+}
+
+
+
+
 /* small devices (divices up to 992px ) */
 @media screen and (max-width: 992px) {
 
@@ -122,88 +213,7 @@ header {
     display: none;
 }
 
-}
+about-livia 
 
-
-/* Nav toggle */
-#nav-toggle {
-        display: none;
-    }
-    
-    #nav-toggle:checked~nav {
-        display: block;
-    }
-
-.active {
-    display: grid;
-    background: white;
-    border-radius: 2vw;
-    padding: 1rem;
-}
-
-#about-livia {
-
-
-}
-
-#introduction {
-    background: url(../images/glad1.png) no-repeat center center/cover;    
-    height: 90vw;
-    width: 90vw;
-    border: 10px;
-    max-width: 680px;
-    max-height: 489px;
-    margin: auto;
-}
-
-#brazil-flag {
-    background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
-    margin-bottom: 20px;
-    border-radius: 50%;
-    border-color: #f000000;
-    border: 10px;
-    max-width: 300px;
-    max-height: 300px;
-    margin: auto;
-}
-
-#sweden-flag {
-    background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
-    height: 90vw;
-    width: 90vw;
-    margin: auto;
-    margin-bottom: 20px;
-    border-radius: 50%;
-    border-color: #f000000;
-    border: 10px;
-    max-width: 300px;
-    max-height: 300px;
-}
-
-#contact-div {
-    background: url(../images/rygg-kort.jpg) no-repeat top center / cover;
-    height: 100vw;
-    width: 100vw;
-    padding: center;
-    max-width: 1440px;
-    max-height: 703px ;
-    margin:auto;
-}
-
-#contact-form {
-    
-    padding-left: 70%;
-    padding-top: 5%;
-}
-
-/* Footer */
-#social-networks {
-    text-align: center;
-    padding: 20px 0;
-    display: flex;
-    justify-content: space-evenly;
-    list-style-type: none;
 }
 
