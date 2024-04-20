@@ -71,25 +71,20 @@ margin: auto;
 background: url('../images/1280px-Flag_of_Brazil.svg.png') no-repeat top center / cover;
 height: 30vw;
 width: 30vw;
-margin: auto;
-border-radius: 50%;
-border: 1px;
+border-radius: 100%;
 max-width: 300px;
 max-height: 300px;
-padding: 2rem;
-
+margin: auto;
 }
 
 #sweden-flag {
 background: url('../images/Flag_of_Sweden.svg.png') no-repeat top center / cover;
 height: 30vw;
 width: 30vw;
-margin: auto;
-border-radius: 50%;
-border: 1px;
+border-radius: 100%;
 max-width: 300px;
 max-height: 300px;
-padding: 2rem;
+margin: auto;
 }
 
 #contact-div {
@@ -217,8 +212,19 @@ font-size: 160%;
 }
 
 #brazil-sweden {
+    margin: auto;
     display: flex;
     align-items: baseline;
+    max-width: 90%;
+}
+
+#brazil-flag {
+    min-height: 15vw;
+    min-width: 15vw;
+}
+#sweden-flag {
+    min-height: 15vw;
+    min-width: 15vw;
 }
 }
 
