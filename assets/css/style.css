@@ -8,6 +8,7 @@ h1 {
 body {
     margin: 0;
     font-family: "PT Serif", serif;
+    min-height: 100vh;
 }
 a { 
     text-decoration: none; 
@@ -62,6 +63,7 @@ background: url(../images/glad1.png) no-repeat center center/cover;
 height: 90vw;
 width: 90vw;
 border: 10px;
+border-radius: 3rem;
 max-width: 680px;
 max-height: 489px;
 margin: auto;
@@ -91,10 +93,21 @@ margin: auto;
 background: url(../images/rygg-kort.jpg) no-repeat top center / cover;
 height: 100vw;
 width: 100vw;
+border-radius: 3rem;
 padding: center;
 max-width: 1440px;
 max-height: 703px ;
 margin:auto;
+}
+
+#podium-pictures {
+    position: relative;
+    margin: auto;
+}
+
+#podium-pictures img {
+    max-width: 90%;
+    max-width: 90%;
 }
 
 #contact-form {
@@ -105,8 +118,9 @@ padding-top: 5%;
 
 /* Footer */
 #social-networks {
+background-color: gray;
+padding: 20px;
 text-align: center;
-padding: 20px 0;
 display: flex;
 justify-content: space-evenly;
 list-style-type: none;
@@ -175,7 +189,9 @@ font-size: 160%;
 @media screen and (min-width: 992px) {
 
 
-
+header h1 {
+    padding-left: 3rem;
+}
 
 
 #menu {
@@ -225,6 +241,11 @@ font-size: 160%;
 #sweden-flag {
     min-height: 15vw;
     min-width: 15vw;
+}
+#podium-pictures {
+    max-width: 60vw;
+    max-width: 60vw;
+
 }
 }
 
