@@ -2,7 +2,6 @@ h1 {
     text-align: left;
     color: black;
     z-index: 10;
-    position: auto;
 }
 
 body {
@@ -89,17 +88,27 @@ max-height: 300px;
 margin: auto;
 }
 
+
+/* Email form for the contact page*/
 #contact-div {
 background: url(../images/rygg-kort.jpg) no-repeat top center / cover;
 height: 100vw;
 width: 100vw;
 border-radius: 3rem;
-padding: center;
+padding: 1rem;
 max-width: 1440px;
 max-height: 703px ;
 margin:auto;
 }
 
+#contact-form {
+
+    padding-left: 5%;
+    padding-top: 5%;
+    }
+
+
+/*Gallery*/
 #podium-pictures {
     position: relative;
     margin: auto;
@@ -110,11 +119,6 @@ margin:auto;
     max-width: 90%;
 }
 
-#contact-form {
-
-padding-left: 5%;
-padding-top: 5%;
-}
 
 /* Footer */
 #social-networks {
@@ -202,7 +206,7 @@ header h1 {
     display: flex;
     gap: 7rem;
     font-size: 130%;
-    align-items: baseline;,
+    align-items: baseline;
 }
 
 .menu a {
