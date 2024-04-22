@@ -15,4 +15,11 @@ I have used some inperation for the navigation bar, witch can be found at : http
 and my source for the email form is : https://www.youtube.com/watch?v=2aycGxk_BHE&t=304s and https://formsubmit.co/
 
 
+lighthouse 
+fuctional testing (make a table) 
+
+action          expected behaviour          pass or fail
+
+
+cloneing and forking
 

@@ -43,10 +43,10 @@ border-radius: 2vw;
 padding: 1rem;
 }
 
+
+/* Introduction*/
 #about-livia div{
-padding-bottom: 1rem;
-
-
+padding: 1rem;
 }
 
 #about-livia h2, p {
@@ -112,6 +112,7 @@ margin:auto;
 #podium-pictures {
     position: relative;
     margin: auto;
+    border-radius: 3rem;
 }
 
 #podium-pictures img {
@@ -198,6 +199,9 @@ header h1 {
     padding-left: 3rem;
 }
 
+#about-livia div{
+    padding: 1rem;
+    }
 
 #menu {
     position: relative;
