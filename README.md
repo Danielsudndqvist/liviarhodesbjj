@@ -40,8 +40,26 @@ Responsice Mockup
 Features:
 
 On the front page (Home) we have some information about who she is and describes her life
-and career.
-![home-readme](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/44835ab5-2f13-4887-97cd-ec3d98792f09)
+and career together with some pictures.
+![home-readme](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/f0b307d3-1675-4fc3-8074-5cab550374cb)
+
+
+The second page of the site is the Gallery part where we uppoloaded some of her podium pictures from the last three years.
+and the third and last page is an contact from where its possible to send an email to Livia.
+
+
+
+Existing Features
+Navigation Bar:
+
+I have made an interactive navigation bar that change apparance depeing if a mobile or pc being used.
+
+Mobile view
+![nav-mobile](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ae97bb54-6875-4989-b996-8312206fa5b5)
+
+
+Big screen view
+![nav-full](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ebfcb73d-486a-4c52-8425-094250db82fb)
 
 
 
