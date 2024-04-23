@@ -26,7 +26,7 @@ cloneing and forking
 
 
 
-Lívia Rhodes BJJ
+# A Lívia Rhodes BJJ
 
 
 This is an informative webbplace for Lívia Rhodes, she is a profession althele from Brazil.
@@ -35,7 +35,7 @@ The goal with this is to find sponsorships and colaborations with pepole who wan
 
 
 
-Features:
+## A Features:
 
 On the front page (Home) we have some information about who she is and describes her life
 and career together with some pictures.
@@ -53,27 +53,27 @@ Its required to write name and email adress before submiting the message.
 
 
 
-Existing Features
-Navigation Bar:
+## A Existing Features
+### A Navigation Bar:
 
 I have made an interactive navigation bar that change apparance depeing if a mobile or pc being used.
 
-Mobile view
+### A Mobile view
 
 ![nav-mobile](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ae97bb54-6875-4989-b996-8312206fa5b5)
 
 
-Big screen view
+### A Big screen view
 
 ![nav-full](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ebfcb73d-486a-4c52-8425-094250db82fb)
 
 
 
-Testing
-I have ran the site througth W3C Validator without anny errors for the HTML code.
+## A Testing
+I have ran the site througth W3C Validator without anny errors for the HTML code and Jigsaw for the CSS:
 ![w3c-validator](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/b10e18d5-162b-4842-8c16-da4ab5b80420)
 
-and i tried the CSS in Jigsaw Validator:
+
 ![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
 
 
