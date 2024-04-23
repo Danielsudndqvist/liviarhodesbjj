@@ -81,7 +81,8 @@ I have ran the site througth W3C Validator without anny errors for the HTML code
 
 ![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
 
-## A Action testing                       ## A Expected behaviour              ## A Pass or Fail
+## A Action testing
+ Action                                     Expected behaviour                  A Pass or Fail
  Nav-Home                                    Go to home page                        Pass
  Nav-Gallery                                 Go to Gallery page                     Pass 
  Nav-Contact                                 Go to Contact page                     Pass 
