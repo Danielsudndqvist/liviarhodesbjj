@@ -67,6 +67,11 @@ I have made an interactive navigation bar that change apparance depeing if a mob
 
 ![nav-full](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ebfcb73d-486a-4c52-8425-094250db82fb)
 
+### A Footer : 
+We have two social media links connected to the footer
+![footer](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/6d75a912-e19d-4207-97e4-e5347eeac50d)
+
+
 
 
 ## A Testing
@@ -76,25 +81,16 @@ I have ran the site througth W3C Validator without anny errors for the HTML code
 
 ![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
 
+## A Action testing                       ## A Expected behaviour              ## A Pass or Fail
+ Nav-Home                                    Go to home page                        Pass
+ Nav-Gallery                                 Go to Gallery page                     Pass 
+ Nav-Contact                                 Go to Contact page                     Pass 
+ Footer-Facebook                              Livias Facebook                       Pass
+ Footer-Instagram                             Livias Instagram                      Pass
+ Message form without Email-adress            Ask for Email-adress                  Pass
+ Send message with contact form                Send an email                        Pass
+ 
 
-
-
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-Validator Testing
-HTML
-No errors were returned when passing through the official W3C validator
-CSS
-No errors were found when passing through the official (Jigsaw) validator
-Unfixed Bugs
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed.
 
 Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
