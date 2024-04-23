@@ -41,7 +41,8 @@ Features:
 
 On the front page (Home) we have some information about who she is and describes her life
 and career.
-!["picture from home part of website](//assets/images/readme-images/home-readme.PNG)
+![home-readme](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/44835ab5-2f13-4887-97cd-ec3d98792f09)
+
 
 
 ///*
