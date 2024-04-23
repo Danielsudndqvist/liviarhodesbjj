@@ -35,17 +35,21 @@ The goal with this is to find sponsorships and colaborations with pepole who wan
 
 
 
-Responsice Mockup
-
 Features:
 
 On the front page (Home) we have some information about who she is and describes her life
 and career together with some pictures.
+
 ![home-readme](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/f0b307d3-1675-4fc3-8074-5cab550374cb)
 
 
 The second page of the site is the Gallery part where we uppoloaded some of her podium pictures from the last three years.
-and the third and last page is an contact from where its possible to send an email to Livia.
+
+
+and the third and last page is an contact from where its possible to send an message to Livia with an text.
+Its required to write name and email adress before submiting the message.
+
+![mail-form](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/6676848b-2d51-478f-af14-a1bfaa8628e6)
 
 
 
@@ -55,66 +59,27 @@ Navigation Bar:
 I have made an interactive navigation bar that change apparance depeing if a mobile or pc being used.
 
 Mobile view
+
 ![nav-mobile](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ae97bb54-6875-4989-b996-8312206fa5b5)
 
 
 Big screen view
+
 ![nav-full](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ebfcb73d-486a-4c52-8425-094250db82fb)
 
 
 
-///*
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-Existing Features
-Navigation Bar
-
-Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-Nav Bar
-
-The landing page image
-
-The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to.
-This section introduces the user to Love Running with an eye catching animation to grab their attention
-Landing Page
-
-Club Ethos Section
-
-The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall.
-This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise.
-Club Ethos
-
-Meetup Times section
-
-This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers.
-This section will be updated as these times change to keep the user up to date.
-Meetup Times
-
-The Footer
-
-The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user.
-The footer is valuable to the user as it encourages them to keep connected via social media
-Footer
-
-Gallery
-
-The gallery will provide the user with supporting images to see what the meet ups look like.
-This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together.
-Gallery
-
-The Sign Up Page
-
-This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address.
-Sign Up
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
-
-Features Left to Implement
-Another feature idea
 Testing
+I have ran the site througth W3C Validator without anny errors for the HTML code.
+![w3c-validator](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/b10e18d5-162b-4842-8c16-da4ab5b80420)
+
+and i tried the CSS in Jigsaw Validator:
+![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
+
+
+
+
+
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
