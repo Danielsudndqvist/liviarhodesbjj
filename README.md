@@ -11,16 +11,6 @@ There is a gallery part where its possbible to see some of her accomplishment du
 its possible to send an massage to her.
 
 
-I have used some inperation for the navigation bar, witch can be found at : https://www.youtube.com/watch?v=PwWHL3RyQgk&t=303s and https://www.youtube.com/watch?v=SkML640BcoA
-and my source for the email form is : https://www.youtube.com/watch?v=2aycGxk_BHE&t=304s and https://formsubmit.co/
-
-
-lighthouse 
-fuctional testing (make a table) 
-
-action          expected behaviour          pass or fail
-
-
 cloneing and forking
 
 
@@ -93,44 +83,8 @@ I have ran the site througth W3C Validator without anny errors for the HTML code
 
 
 ## a Deployment
-I have deployed yhe website with Github by 
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
-
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the source section drop-down menu, select the Master Branch
-Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
+I have deployed yhe website with Github on : https://github.com/Danielsudndqvist/liviarhodesbjj
 
 ## A Credits
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
-
-You can break the credits section up into Content and Media, depending on what you have included in your project.
-
-Content
-The text for the Home page was taken from Wikipedia Article A
-Instructions on how to implement form validation on the Sign Up page was taken from Specific YouTube Tutorial
-The icons in the footer were taken from Font Awesome
-Media
-The photos used on the home and sign up page are from This Open Source site
-The images used for the gallery page were taken from this other open source site
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer!
-
-Other General Project Advice
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work!
-
-One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through this article by Chris Beams on How to Write a Git Commit Message
-
-Make sure to keep the messages in the imperative mood
-When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-
-For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept.
-Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-
-Writing Your Best Code
-HTML & CSS Coding Best Practices
-Google HTML/CSS Style Guide
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process!
-
-**/////
+I have used some inperation for the navigation bar, witch can be found at : https://www.youtube.com/watch?v=PwWHL3RyQgk&t=303s and https://www.youtube.com/watch?v=SkML640BcoA
+and my source for the email form is : https://www.youtube.com/watch?v=2aycGxk_BHE&t=304s and https://formsubmit.co/
