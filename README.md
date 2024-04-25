@@ -61,12 +61,23 @@ I have run the site through W3C Validator without any errors for the HTML code a
 ![lighthouse](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/6f04e3e7-cf5e-4343-ab4a-f0c4b53629d9)
 
 
+## To improve!
+Next project im going to improve my Commit messages so they are more clear and spelled corectly.
+I alson wanted to make a border radius of the video player. 
 
 
 ## Deployment
-I have deployed the website with Github on : 
+I have deployed the website with GitHub by going into the settings tab. After that, I chose the Master Branch in the source tab. After I picked which branch to deploy from, 
+the site automatically refreshes and tells me that the site is live.
 https://github.com/Danielsudndqvist/liviarhodesbjj
 https://danielsudndqvist.github.io/liviarhodesbjj/gallery.html
+
+
+
+The site was deployed to GitHub pages. The steps to deploy are as follows:
+In the GitHub repository, navigate to the Settings tab
+From the source section drop-down menu, select the Master Branch
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 ## Credits
 I have used some inspiration for the navigation bar, which can be found at:
