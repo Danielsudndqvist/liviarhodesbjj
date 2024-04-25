@@ -81,12 +81,18 @@ I have ran the site througth W3C Validator without anny errors for the HTML code
 
 ![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
 
-##A Action testing
+### A Action testing table
 ![action-test](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/a92dcd1e-e2f6-4572-b39c-3252ae39ae0f)
 
+### A Lighhouse test
+![lighthouse](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/6f04e3e7-cf5e-4343-ab4a-f0c4b53629d9)
 
 
-Deployment
+
+
+## a Deployment
+I have deployed yhe website with Github by 
+
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub)
 
 The site was deployed to GitHub pages. The steps to deploy are as follows:
@@ -95,7 +101,7 @@ From the source section drop-down menu, select the Master Branch
 Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html
 
-Credits
+## A Credits
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism.
 
 You can break the credits section up into Content and Media, depending on what you have included in your project.
