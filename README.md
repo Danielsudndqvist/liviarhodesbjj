@@ -1,4 +1,4 @@
-# A Lívia Rhodes BJJ
+# Lívia Rhodes BJJ
 
 
 This is an informative website for Lívia Rhodes, a professional athlete from Brazil. The goal with this is to find sponsorships and collaborations with people who want to grow together with her. The page contains some information about who she is and what her dreams and goals are. There is a gallery section where it's possible to see some of her accomplishments during her career. Lastly, we have a contact section where it's possible to send a message to her.
@@ -6,7 +6,7 @@ This is an informative website for Lívia Rhodes, a professional athlete from Br
 
 
 
-## A Features:
+## Features:
 
 On the front page (Home), we have some information about who she is and describe her life and career together with some pictures.
 
@@ -24,17 +24,17 @@ The third and last page is a contact form where it's possible to send a message 
 
 
 
-## A Existing Features
-### A Navigation Bar:
+## Existing Features
+### Navigation Bar:
 
 I have made an interactive navigation bar that changes appearance depending on whether a mobile or PC is being used.
 
-### A Mobile view
+### Mobile view
 
 ![nav-mobile](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ae97bb54-6875-4989-b996-8312206fa5b5)
 
 
-### A Big screen view
+### Big screen view
 
 ![nav-full](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/ebfcb73d-486a-4c52-8425-094250db82fb)
 
@@ -45,14 +45,14 @@ We have two social media links connected to the footer.
 
 
 
-## A Testing
+## Testing
 I have run the site through W3C Validator without any errors for the HTML code and Jigsaw for the CSS.
 ![w3c-validator](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/b10e18d5-162b-4842-8c16-da4ab5b80420)
 
 
 ![jigsaw](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/190d296a-b4e7-4763-bbf0-793932c2b9d3)
 
-### A Action testing table
+### Action testing table
 ![action-test](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/a92dcd1e-e2f6-4572-b39c-3252ae39ae0f)
 
 ### A Lighhouse test
@@ -61,11 +61,12 @@ I have run the site through W3C Validator without any errors for the HTML code a
 
 
 
-## a Deployment
-I have deployed yhe website with Github on : 
+## Deployment
+I have deployed the website with Github on : 
 https://github.com/Danielsudndqvist/liviarhodesbjj
+https://danielsudndqvist.github.io/liviarhodesbjj/gallery.html
 
-## A Credits
+## Credits
 I have used some inspiration for the navigation bar, which can be found at:
 https://www.youtube.com/watch?v=PwWHL3RyQgk&t=303s
 https://www.youtube.com/watch?v=SkML640BcoA
