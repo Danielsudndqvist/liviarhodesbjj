@@ -43,7 +43,9 @@ and career together with some pictures.
 ![home-readme](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/f0b307d3-1675-4fc3-8074-5cab550374cb)
 
 
-The second page of the site is the Gallery part where we uppoloaded some of her podium pictures from the last three years.
+The second page of the site is the Gallery part where we uppoloaded some of her podium pictures from the last three years and a video reel from a competision.
+![gallery-section](https://github.com/Danielsudndqvist/liviarhodesbjj/assets/163173315/d5faf65f-6ce4-41f5-8a0e-6975c9abbdfe)
+
 
 
 and the third and last page is an contact from where its possible to send an message to Livia with an text.
