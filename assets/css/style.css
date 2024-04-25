@@ -135,6 +135,11 @@ list-style-type: none;
 font-size: 160%;
 }
 
+#video-section {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
 
 
 
