@@ -1,5 +1,7 @@
 # Lívia Rhodes BJJ
 
+https://danielsudndqvist.github.io/liviarhodesbjj/index.html
+
 
 This is an informative website for Lívia Rhodes, a professional athlete from Brazil. The goal with this is to find sponsorships and collaborations with people who want to grow together with her. The page contains some information about who she is and what her dreams and goals are. There is a gallery section where it's possible to see some of her accomplishments during her career. Lastly, we have a contact section where it's possible to send a message to her.
 
